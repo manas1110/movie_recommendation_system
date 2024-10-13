@@ -43,7 +43,6 @@ page_bg_img = '''
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
-  margin-left:200px;
   border-radius: 5px;
   transition: all 0.3s ease;  /* Smooth transition for hover effect */
   
